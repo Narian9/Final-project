@@ -1,0 +1,39 @@
+.App{
+  background-color: black;
+  color: rgb(235, 177, 19);
+}
+.stack{
+  background-color: black;
+}
+.container{
+  background-color: black;
+  color: rgb(235, 177, 19);
+}
+h1,h2,h3,h4{
+  color: rgb(235, 177, 19);
+}
+img{
+  margin: 5px;
+}
+span{
+  color: aliceblue;
+}
+#offCanvas{
+  height: 100vh;
+}
+
+#dropdown-item-button{
+  border: 0;
+}
+#navbar{
+  background-color: black;
+}
+#upComing{
+  padding-top: 5px;
+}
+
+#root {
+  width: 99vmax;
+  margin: 0;
+  padding: 0;  
+}
